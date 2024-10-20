@@ -5,3 +5,5 @@ Computer-aided diagnostics involve two key elements: detection and diagnosis. De
 This project aims to detect the median nerve in ultrasound images of the wrist.
 The dataset was provided by the Medical Imaging Group (MIG) at the Indian Institute of Science, Bangalore.
 
+## Results
+![image](https://github.com/user-attachments/assets/9cb29fd2-ccdf-4e2a-8d09-1d038e7359cc)
